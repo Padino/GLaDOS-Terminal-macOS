@@ -68,7 +68,7 @@ The Tacotron 2 and HiFi-GAN models used in this project will not auto-update. Wh
 
 ### Current Models (Initial Release)
 
-| Model                  | ID                                      | Description                       | Release Date     |
+| Model                  | Google Drive ID                         | Description                       | Release Date     |
 |------------------------|-----------------------------------------|-----------------------------------|------------------|
 | **Tacotron 2**         | `1qJ-xUTr2sbQZZddf2Ppw7p4_NJJK7Yjc`     | Fine-tuned for GLaDOS’s voice     | 18/11/2024       |
 | **HiFi-GAN**           | `1FXfncncGh5LxrL5GkAo4gcBFPUAgFibG`     | Enhanced fidelity for synthesis   | 18/11/2024       |

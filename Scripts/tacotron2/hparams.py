@@ -1,4 +1,3 @@
-import tensorflow as tf
 from .text import symbols
 
 class HParams(dict):

@@ -50,9 +50,11 @@ This program is designed to run on modern hardware, as it uses multiple resource
    pip install -r requirements.txt
    ```
 
-3. Ensure **ollama** is installed and running on your system. Installation instructions can be found [here](https://ollama.ai/).
+3. Install Pytorch from official website, instructions can be found [here](https://pytorch.org/get-started/locally/).
 
-4. Run the program:
+4. Ensure **ollama** is installed and running on your system. Installation instructions can be found [here](https://ollama.ai/).
+
+5. Run the program:
    ```bash
    python Main.py
    ```

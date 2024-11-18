@@ -1,5 +1,0 @@
-Set up a google drive
-Make it download models from google drive
-Convert to EXE
-Setup GitHub with proper description
-Post on reddit (Python, Pygame, Portal)

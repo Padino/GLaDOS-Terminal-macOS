@@ -1,0 +1,11 @@
+pygame
+moderngl
+numpy
+ollama
+gdown
+sounddevice
+matplotlib
+librosa
+scipy
+unidecode
+inflect

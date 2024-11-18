@@ -1,6 +1,6 @@
 # GLaDOS-Terminal
 
-[![python 3.10.6](https://img.shields.io/badge/python-3.10.6-blue)](https://www.python.org/) [![pygame 2.1.2](https://img.shields.io/badge/pygame-2.1.2-green)](https://www.pygame.org/wiki/about)
+![alt text](https://img.shields.io/badge/python-3.10.6-blue) ![alt text](https://img.shields.io/badge/pygame-2.6.0-green) ![alt text](https://img.shields.io/badge/moderngl-5.7.4-purple) ![alt text](https://img.shields.io/badge/pytorch-2.4.1-red)
 
 **GLaDOS-Terminal** is a chatbot that brings the iconic GLaDOS personality to life through a retro terminal interface. Designed from the ground up, this project uses custom AI models and graphics to simulate realistic conversations with the infamous AI from the *Portal* games.
 

@@ -41,7 +41,7 @@ This program is designed to run on modern hardware, as it uses multiple resource
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/GLaDOS-Terminal.git
+   git clone https://github.com/LuckeyDuckey/GLaDOS-Terminal.git
    cd GLaDOS-Terminal
    ```
 

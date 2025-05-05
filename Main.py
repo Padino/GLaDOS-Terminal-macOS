@@ -1,5 +1,5 @@
 # GLaDOS-Terminal, Author LuckeyDuckey
-# Edited by Padino for running on MacOS
+# Edited by Padino for running on macOS and apple silicon (no NPU/GPU accelleration for AI)
 
 print("Setting up, please wait.\n")
 
@@ -11,7 +11,6 @@ from array import array
 
 import numpy as np
 
-# Remove debug prints
 from Scripts.TextInput import TextInput
 from Scripts.TextProcessing import TextProcessing
 from Scripts.LargeLanguageModel import LargeLanguageModel

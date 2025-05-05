@@ -49,7 +49,7 @@ def GetTactron2(ModelName, ModelID):
     HyperParams.gate_threshold = 0.25
     
     Model = Tacotron2(HyperParams)
-    StateDict = torch.load(f"{Directory}/models/{ModelName}", weights_only=True)["state_dict"]
+    StateDict = torch.load(f"{Directory}/models/{ModelName}", map_location=torch.device('cpu'))["state_dict"]
     Model.load_state_dict(StateDict)
     Model.to(Device).eval().half()
     

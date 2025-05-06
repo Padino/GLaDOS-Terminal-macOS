@@ -54,7 +54,13 @@ This program is designed to run on modern hardware, as it uses multiple resource
 
 4. Ensure **ollama** is installed and running on your system. Installation instructions can be found [here](https://ollama.ai/).
 
-5. Run the program:
+5. Create the models folder
+   ```bash
+   cd Scripts
+   mkdir models
+   ```
+
+6. Run the program:
    ```bash
    python Main.py
    ```
